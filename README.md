@@ -11,7 +11,7 @@ This is a simple Python-based weather app that fetches and displays weather info
 ## Requirements
 - Python 3.7 or later
 - An active internet connection
-- OpenWeatherMap API Key (Sign up for free at [OpenWeatherMap](https://openweathermap.org/api))
+- 
 
 ## Installation
 1. Clone the repository:
